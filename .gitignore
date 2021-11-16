@@ -1,0 +1,6 @@
+build/*
+.vscode
+.env
+local_env.mk
+node_modules/
+*.js  ## These should all be built
